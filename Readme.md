@@ -8,7 +8,7 @@ Each Kata is a separate Lua project that you can build and run.
 For each Kata, you can run the following commands within the Kata's directory.
 
 # Prerequisites
-- busted (for testing)
+- [busted](https://lunarmodules.github.io/busted/#overview) (for testing)
 
 ## Testing
 ```bash
